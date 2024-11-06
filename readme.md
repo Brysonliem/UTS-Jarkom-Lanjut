@@ -1,5 +1,8 @@
+Download PDF secara Raw File tidak bisa di buka melalui github
+
 Bryan Johnson / 2021-0801-200 / Teknik Informatika
 
+Catatan IP :
 Kampus Citra Raya (CR):
 Network: 192.168.1.0/24
 Router: 192.168.1.1
