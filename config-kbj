@@ -1,0 +1,11 @@
+# Router KJ
+interface GigabitEthernet0/0
+ ip address dhcp
+ no shutdown
+!
+interface GigabitEthernet0/1
+ ip address 192.168.2.1 255.255.255.0
+ no shutdown
+!
+ip route 192.168.1.0 255.255.255.0 <IP_CR_Router>
+ip route 192.168.3.0 255.255.255.0 <IP_KHI_Router>
